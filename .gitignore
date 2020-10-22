@@ -1,0 +1,8 @@
+*.epub
+.DS_Store
+local/in/
+local/mastered/
+local/out/
+
+
+
