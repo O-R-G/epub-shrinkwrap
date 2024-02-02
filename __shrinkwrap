@@ -13,11 +13,11 @@ IN='local/in'
 OUT='local/out'
 CREATEDMG='create-dmg'
 MASTERED='local/mastered'
-O_R_G='/usr/www/users/reinfurt/o-r-g.com/out'
-O_R_G_HASH[0]=833e9166990fdf78d11c6981b7ca4e85
-O_R_G_HASH[1]=833e9166990fdf78d11c6981b7ca4e85
-O_R_G_HASH[2]=41bff5943154e9f2fcf6936406484d77
-O_R_G_HASH[3]=41bff5943154e9f2fcf6936406484d77
+O_R_G='/var/www/html/out'
+O_R_G_HASH[0]=897878de409b3ee03c481ae581326b8c
+O_R_G_HASH[1]=897878de409b3ee03c481ae581326b8c
+O_R_G_HASH[2]=3fd22aeab0bc6061f0b5be41f6e2be09
+O_R_G_HASH[3]=3fd22aeab0bc6061f0b5be41f6e2be09
 O_R_G_HASH_INDEX=0
 PUBLISH=1
 
